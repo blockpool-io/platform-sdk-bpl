@@ -1,5 +1,5 @@
 {
-	"name": "@arkecosystem/platform-sdk-bpl",
+	"name": "platform-sdk-bpl",
 	"version": "3.1.18",
 	"description": "Cross-Platform Utilities for BPL Applications",
 	"license": "MIT",
