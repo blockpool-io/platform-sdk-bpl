@@ -4,7 +4,7 @@ const network: Coins.CoinNetwork = {
 	id: "bpl.mainnet",
 	type: "live",
 	name: "BPL Mainnet",
-	explorer: "https://explorer.ark.io/",
+	explorer: "https://explorer.blockpool.io/",
 	currency: {
 		ticker: "BPL",
 		symbol: "β",
