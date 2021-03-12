@@ -5,6 +5,6 @@ export const manifest = {
 	name: "BPL",
 	networks: {
 		"bpl.mainnet": BplMainnet,
-		"bpl.testnet": BplTest,
+		"bpl.testnet": BplTestnet,
 	},
 };
